@@ -1,0 +1,20 @@
+{
+  "name": "AIF-C01 背题 · AWS 人工智能从业者",
+  "short_name": "AIF背题",
+  "description": "AWS AIF-C01 人工智能从业者认证 334 题中英对照背题系统",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f8fc",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%234f46e5'/%3E%3Ctext x='256' y='348' font-size='256' font-family='system-ui,sans-serif' font-weight='bold' fill='white' text-anchor='middle'%3EAI%3C/text%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
